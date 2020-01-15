@@ -1,8 +1,8 @@
 ## Basic Information
 
 #### Qiao Liu
-#### South East University(https://www.seu.edu.cn/)
-#### PALM lab(http://palm.seu.edu.cn/)
+#### [South East University](https://www.seu.edu.cn/)
+#### [PALM lab](http://palm.seu.edu.cn/)
 
 ## Search
 
