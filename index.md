@@ -11,4 +11,4 @@
 #### hyperbolic embedding
 
 ## Contact
- ####  qiaoliu@seu.edu.cn
+ ####  [email:qiaoliu@seu.edu.cn](qiaoliu@seu.edu.cn)
