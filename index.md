@@ -2,7 +2,7 @@
 
 #### Qiao Liu
 #### [South East University](https://www.seu.edu.cn/)
-##### [PALM lab](http://palm.seu.edu.cn/)、
+##### [PALM lab](http://palm.seu.edu.cn/)
 #### Tencent
 
 ## Research
