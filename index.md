@@ -2,13 +2,13 @@
 
 #### Qiao Liu
 #### [South East University](https://www.seu.edu.cn/)
-#### [PALM lab](http://palm.seu.edu.cn/)
+##### [PALM lab](http://palm.seu.edu.cn/)、
+#### Tencent
 
-## Search
+## Research
 
 #### Deep spectral kernel
-#### heterogeneous transfer learning
-#### hyperbolic embedding
+#### Transfer learning
 
 ## Contact
 ####  [email:qiaoliu@seu.edu.cn](qiaoliu@seu.edu.cn)
